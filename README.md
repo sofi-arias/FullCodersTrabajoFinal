@@ -46,3 +46,12 @@ Proporcionar una interfaz de usuario intuitiva y fácil de usar para que los cli
 
 Metodología Kanban para el Proyecto del cajero automatico
 En la plataforma Trello cree columnas "por hacer", "en progreso", "revision" y "hecho".
+
+Listado de Tareas:
+
+Dividi el proyecto en tareas más pequeñas:
+Investige y diseñe la interfaz del sistema.
+Genere un pseudocódigo funcional.
+Implemente la funcionalidad de retirar, depositar y consultar saldo.
+Implemente la funcionalidad de carga de dinero o sacar.
+
